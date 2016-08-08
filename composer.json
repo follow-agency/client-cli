@@ -8,6 +8,6 @@
 	},
 	"type": "library",
 	"autoload": {
-		"psr-0": {"WPAPI": "library/"}
+		"psr-4": {"WPAPI\\": "library/"}
 	}
 }
